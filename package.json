@@ -2,6 +2,7 @@
   "name": "finance-platform",
   "version": "0.1.0",
   "private": true,
+  
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
@@ -53,5 +54,22 @@
     "prisma": "^6.0.1",
     "react-email": "3.0.3",
     "tailwindcss": "^3.4.1"
-  }
+  },
+  "description": "<img width=\"1470\" alt=\"Screenshot 2024-12-10 at 9 45 45 AM\" src=\"https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432\">",
+  "main": "middleware.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyush-eon/ai-finance-platform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/piyush-eon/ai-finance-platform/issues"
+  },
+  "homepage": "https://github.com/piyush-eon/ai-finance-platform#readme"
 }
